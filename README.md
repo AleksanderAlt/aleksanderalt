@@ -1,6 +1,4 @@
-# [Aleksander Altmäe - Portfolio](https://startbootstrap.com/theme/grayscale/)
-
-Portfolio is created using [Grayscale](https://startbootstrap.com/theme/grayscale/) theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
+# [Aleksander Altmäe - Portfolio](https://aleksanderalt.github.io/aleksanderalt/)
 
 ## About
 
@@ -13,3 +11,6 @@ For more information visit [my LinkedIn page](https://www.linkedin.com/in/aleksa
 ## Projects
 
 Grain size distribution [calculator](https://aleksanderalt.github.io/GSDApp/) for checking aggregates grain size distribution.
+
+
+Portfolio is created using [Grayscale](https://startbootstrap.com/theme/grayscale/) theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
